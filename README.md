@@ -8,4 +8,6 @@
 
 5. This app is entirely written in python, django, html and css. The database i use here is heroku:postgresql database.
 
-6. The Django to do list app is deployed in heroku platform.
+6. And the App Deployment is done in heroku 
+ 
+   you can check it out here https://mahatodolist.herokuapp.com/
